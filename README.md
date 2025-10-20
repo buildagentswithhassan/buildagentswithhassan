@@ -15,7 +15,9 @@ I specialize in API-first AI microservices, event-driven architectures, and cont
 - Building agentic workflows with LangGraph, LangChain, Bedrock Agents, OpenAI Agents SDK, AWS Strands Agents and modern AI SDKs
 - Designing intelligent cloud-native systems that connect LLMs with real-world tools
 
-🛠 Tech Stack: AWS Cloud, FastAPI, PostgreSQL, MySQL, Python, TypeScript, Next.js, Docker
+🛠 Tech Stack:
+
+- AWS Cloud, FastAPI, PostgreSQL, MySQL, Python, TypeScript, Next.js, Docker
 
 📚 Currently learning
 
