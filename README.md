@@ -1,8 +1,7 @@
-Hi there! I'm Hassan
-Agentic AI Developer | Cloud-Based AI Engineer
+## Hi there! I'm Hassan
+#### Agentic AI Developer | Cloud-Based AI Engineer
 
 🚀 I design and build cutting-edge Agentic AI applications and cloud-native software systems.
-
 I specialize in API-first AI microservices, event-driven architectures, and containerized deployments on AWS (ECS/EKS).
 
 🛠️ What I work with
